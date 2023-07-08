@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactMovieZone/static/css/main.334bdeb1.css",
+    "main.js": "/reactMovieZone/static/js/main.8af417d4.js",
+    "index.html": "/reactMovieZone/index.html",
+    "static/media/search.svg": "/reactMovieZone/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/reactMovieZone/static/css/main.334bdeb1.css.map",
+    "main.8af417d4.js.map": "/reactMovieZone/static/js/main.8af417d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.8af417d4.js"
+  ]
+}
